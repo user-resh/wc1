@@ -8,4 +8,8 @@ object change1 {
     println("do nothing")
     println("change2")
   }
+  def b = {
+    println("do nothing")
+    println("change3")
+  }
 }
