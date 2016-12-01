@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="wc1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wc1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="wc1.jar">
+        <element id="module-output" name="wc1" />
+        <element id="module-output" name="wc1-build" />
+      </element>
+      <element id="library" level="module" name="SBT: sbt-and-plugins" module-name="wc1-build" />
+      <element id="library" level="module" name="SBT: unmanaged-sources-and-docs" module-name="wc1" />
+    </root>
+  </artifact>
+</component>
