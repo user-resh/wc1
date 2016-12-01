@@ -12,4 +12,8 @@ object change1 {
     println("do nothing")
     println("change3")
   }
+  def c = {
+    println("do nothing")
+    println("change4")
+  }
 }
